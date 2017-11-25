@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://kingdomland.vn' target='_blank'><img src='http://luckylandcorp.com/wp-content/uploads/2016/06/1-LL-Group-Ph%E1%BB%91i-c%E1%BA%A3nh-t%E1%BB%95ng-th%E1%BB%83-d%E1%BB%B1-%C3%A1n-C%E1%BB%99ng-Ho%C3%A0-Garden.jpg' width='500px'/><br/>13 Bán Căn Hộ Cộng Hòa Garden </a>. Liên Hệ : 0911.275.444 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://kingdomland.vn' target='_blank'><img src='http://luckylandcorp.com/wp-content/uploads/2016/06/1-LL-Group-Ph%E1%BB%91i-c%E1%BA%A3nh-t%E1%BB%95ng-th%E1%BB%83-d%E1%BB%B1-%C3%A1n-C%E1%BB%99ng-Ho%C3%A0-Garden.jpg' width='500px'/><br/> Bán Căn Hộ Cộng Hòa Garden </a>. Liên Hệ : 0911.275.444 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
